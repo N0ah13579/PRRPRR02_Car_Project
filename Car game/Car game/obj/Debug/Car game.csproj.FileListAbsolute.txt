@@ -1,0 +1,10 @@
+C:\Users\Noah\source\repos\Car game\Car game\bin\Debug\Car game.exe.config
+C:\Users\Noah\source\repos\Car game\Car game\bin\Debug\Car game.exe
+C:\Users\Noah\source\repos\Car game\Car game\bin\Debug\Car game.pdb
+C:\Users\Noah\source\repos\Car game\Car game\obj\Debug\Car game.csprojAssemblyReference.cache
+C:\Users\Noah\source\repos\Car game\Car game\obj\Debug\Car_game.Form1.resources
+C:\Users\Noah\source\repos\Car game\Car game\obj\Debug\Car_game.Properties.Resources.resources
+C:\Users\Noah\source\repos\Car game\Car game\obj\Debug\Car game.csproj.GenerateResource.cache
+C:\Users\Noah\source\repos\Car game\Car game\obj\Debug\Car game.csproj.CoreCompileInputs.cache
+C:\Users\Noah\source\repos\Car game\Car game\obj\Debug\Car game.exe
+C:\Users\Noah\source\repos\Car game\Car game\obj\Debug\Car game.pdb
